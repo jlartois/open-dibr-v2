@@ -1,4 +1,4 @@
-datasets/*.mp4
-datasets/*.bin
+dataset/*.mp4
+dataset/*.bin
 preprocessing/bin
 preprocessing/build
