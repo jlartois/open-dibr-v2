@@ -1,6 +1,6 @@
 {
   "Axial_system": "OPENGL",
-  "Nr_of_frames": 300,
+  "Number_of_frames": 300,
   "cameras": [
     {
       "NameColor": "viewport",
