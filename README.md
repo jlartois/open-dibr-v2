@@ -4,7 +4,7 @@ This repository contains a framework based on [OpenDIBR](https://github.com/IDLa
 
 ![example.gif](docs/example.gif)
 
-Note: this GIF is highly compressed (low resolution and frame rate, muted colors)..
+Note: this GIF is highly compressed (low resolution and frame rate, muted colors).
 
 Here is a render (without and with wireframe mode) for one frame:
 
@@ -16,7 +16,7 @@ The mesh simplification is designed so that:
 
 * along edges and for detailed areas, a lot of small triangles are used.
 
-This is to ensure high-quality results.
+This is to ensure high-quality results while minimizing the number of vertices and triangles.
 
 ### Example dataset: Painter
 
