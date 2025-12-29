@@ -2,3 +2,5 @@ dataset/*.mp4
 dataset/*.bin
 preprocessing/bin
 preprocessing/build
+open-dibr/bin
+open-dibr/build
