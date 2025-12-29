@@ -1,6 +1,12 @@
 # OpenDIBR V2
 
-This repository contains a framework based on [OpenDIBR](https://github.com/IDLabMedia/open-dibr). Instead of decoding depth map videos during the rendering, simplified meshes are loaded in a the beginning of the application. One simplified mesh reconstructs the geometry for one video frame. The result is a depth-image-based renderer that achieves much higher frame rates.
+This repository contains a framework based on [OpenDIBR](https://github.com/IDLabMedia/open-dibr). Instead of decoding depth map videos during the rendering, simplified meshes are loaded in a the beginning of the application. One simplified mesh reconstructs the geometry for one video frame. The result is a depth-image-based renderer that achieves much higher frame rates. You can see the rendered result, as well as the wireframe of the meshes in the GIF below.
+
+![example.gif](docs/example.gif)
+
+Note: this GIF is highly compressed (low resolution and frame rate, muted colors).
+
+### Example dataset: Painter
 
 Download the example dataset [here](https://cloud.ilabt.imec.be/index.php/s/iC4FoMrC9KGW8Ek) and put the files in the `dataset` folder. It contains 4*2 videos from the Interdigital Painter dataset.
 
