@@ -1,0 +1,10 @@
+^C:\USERS\JULIE\DOCUMENTS\WORK\MESHOPENDIBR\OPEN-DIBR-V2\OPEN-DIBR\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr -BC:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin --check-stamp-file C:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

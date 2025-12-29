@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\NvDecoder.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\Application.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\PCApplication.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\VRApplication.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\glHelper.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\CameraVisibilityHelper.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\ioHelper.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\Pool.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\shader.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\AppDecUtils.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\FFmpegDemuxer.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\NvDecoder.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\NvCodecUtils.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\MeasureFPS.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\include\nvdec\cuviddec.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\include\nvdec\nvcuvid.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\vertex.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\fragment.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\cameras_vertex.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\cameras_frag.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\copy_fragment.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\copy_vertex.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\copy_fragment_1output.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\toinput_vertex.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\toinput_fragment.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\dilate_fragment.fs">
+      <Filter>resources</Filter>
+    </None>
+    <None Include="C:\Users\julie\Documents\work\MeshOpenDibr\open-dibr-v2\open-dibr\src\inpaint_fragment.fs">
+      <Filter>resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{C717731E-4AF9-354D-9FBF-23C2783A191E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resources">
+      <UniqueIdentifier>{A5C7520F-1466-3A41-B8D2-15BB0FE1E13E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{2F004F4A-EED2-3C7F-BDAE-A87E6C822990}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
