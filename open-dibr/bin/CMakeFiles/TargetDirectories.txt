@@ -1,4 +1,0 @@
-C:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin/CMakeFiles/RealtimeDIBR.dir
-C:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin/CMakeFiles/INSTALL.dir
-C:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin/CMakeFiles/ALL_BUILD.dir
-C:/Users/julie/Documents/work/MeshOpenDibr/open-dibr-v2/open-dibr/bin/CMakeFiles/ZERO_CHECK.dir
